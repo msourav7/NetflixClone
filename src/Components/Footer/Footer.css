@@ -47,7 +47,7 @@ ul {
     border-radius: 5px;
   }
   
-  @media (max-width: 960px) {
+  @media (max-width: 550px) {
     .footer .footer-cols {
       grid-template-columns: repeat(2, 1fr);
     }
